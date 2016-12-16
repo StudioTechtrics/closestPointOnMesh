@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: dfe9693b0bafe2b4e83bdbaf5593545f
+timeCreated: 1477483916
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Island_NormalMother01
+    100002: Island_NormalMother02
+    100004: Island_NormalMother03
+    100006: Island_NormalMother04
+    100008: Island_NormalMother05
+    100010: Island_NormalMother06
+    100012: Island_NormalMother07
+    100014: Island_NormalMother08
+    100016: Island_NormalMother09
+    100018: Island_NormalMother10
+    100020: //RootNode
+    400000: Island_NormalMother01
+    400002: Island_NormalMother02
+    400004: Island_NormalMother03
+    400006: Island_NormalMother04
+    400008: Island_NormalMother05
+    400010: Island_NormalMother06
+    400012: Island_NormalMother07
+    400014: Island_NormalMother08
+    400016: Island_NormalMother09
+    400018: Island_NormalMother10
+    400020: //RootNode
+    2300000: Island_NormalMother01
+    2300002: Island_NormalMother02
+    2300004: Island_NormalMother03
+    2300006: Island_NormalMother04
+    2300008: Island_NormalMother05
+    2300010: Island_NormalMother06
+    2300012: Island_NormalMother07
+    2300014: Island_NormalMother08
+    2300016: Island_NormalMother09
+    2300018: Island_NormalMother10
+    3300000: Island_NormalMother01
+    3300002: Island_NormalMother02
+    3300004: Island_NormalMother03
+    3300006: Island_NormalMother04
+    3300008: Island_NormalMother05
+    3300010: Island_NormalMother06
+    3300012: Island_NormalMother07
+    3300014: Island_NormalMother08
+    3300016: Island_NormalMother09
+    3300018: Island_NormalMother10
+    4300000: Island_NormalMother10
+    4300002: Island_NormalMother09
+    4300004: Island_NormalMother08
+    4300006: Island_NormalMother07
+    4300008: Island_NormalMother06
+    4300010: Island_NormalMother05
+    4300012: Island_NormalMother04
+    4300014: Island_NormalMother03
+    4300016: Island_NormalMother02
+    4300018: Island_NormalMother01
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
